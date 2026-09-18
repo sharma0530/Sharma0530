@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Aditya Sharma
 
-> **Frontend & React Developer**
+> **AI/ML Engineer & React Developer**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Aditya%20Sharma&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Frontend%20%26%20React%20Developer&descAlignY=60" />
